@@ -93,7 +93,7 @@
             <div class="row">
                <div class="col-md-8">
                   <div class="footer-text">
-                     <p>© <?= date('Y')?> okteknisi. All Rights Reserved.</p>
+                     <p>© <?= date('Y')?> okteknisi</p>
                   </div>
                </div>
                <div class="col-md-4">
